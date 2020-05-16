@@ -1,6 +1,6 @@
 # Notas para la Integración del TPV-Virtual de Redsys
 
-Para la integración del medio de pago TPV-Virtual de Redsys, están son mis notas que nos ayudaron en la integración realizada en el marco de un proyecto de consultoría realizado por [Extly TECH](https://extly-tech.com/) y [Extly](https://extly.com/).
+Para la integración del medio de pago TPV-Virtual de Redsys, están son mis notas que nos ayudaron en la integración realizada en el marco de un proyecto de consultoría realizado por [Extly TECH](https://extly.com/) y [Extly](https://extly.com/).
 
 Los siguientes datos de ejemplo para pruebas manuales y unitarias automatizadas son independientes de tecnología utilizadas y los incluyo en este documento para facilitar las pruebas futuras.
 
